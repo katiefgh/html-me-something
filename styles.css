@@ -1,0 +1,14 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #e68a00;
+}
+
+main {
+    background-color: #ffffe6;
+}
+
+#map {
+    width: 100%;
+
+}
