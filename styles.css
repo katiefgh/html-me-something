@@ -6,9 +6,24 @@ body {
 
 main {
     background-color: #ffffe6;
+    padding: 0px 20px;
+}
+#party {
+    display: flex;
+    flex-direction: row;
 }
 
 #map {
     width: 100%;
 
+}
+
+.character-portrait {
+    border-radius: 50;
+    width: 100px;
+    align-self: flex-start;
+}
+
+.character-bio {
+    align-self: flex-end;
 }
